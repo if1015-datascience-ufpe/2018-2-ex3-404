@@ -54,6 +54,7 @@ casos, os textos são muito simples e, assim, vários foram alocados. Notem que 
 textos mais simples podem, na verdade, ser mais difíceis de serem apresentados
 e resumidos. O aluno (grupo) deverá se esforçar ainda mais para que seu resumo tenha unidade.
 
+- **404 -- Alexsandro Vitor, Jeffson Simões -- 5**
 - Cinthya Lins, Thiago Casa Nova -- 3
 - Gabriel Barbosa, João Vasconcelos -- 8
 - Claudio Carvalho, Guilherme Lima -- 14
@@ -63,7 +64,6 @@ e resumidos. O aluno (grupo) deverá se esforçar ainda mais para que seu resumo
 - Maria Luiza Menezes, Ullayne Fernandes -- 1
 - João Filipe, Rodrigo Cunha -- 12
 - Hilton Pintor, Victor Miranda -- 9
-- Alexsandro Vitor, jeffson Simões -- 5
 - Ramom Pereira, Jailson Dias -- 10
 - Jônatas de Oliveira, Valdemiro Vieira -- 4
 - Lucas Alves Rufino, Rodrigo de Lima Oliveira -- 16
@@ -136,22 +136,22 @@ Big Data: A Report on Algorithmic Systems, Opportunity, and Civil Rights
 Executive Office of the President, EUA. 2016.
 https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/2016_0504_data_discrimination.pdf
 
-#### Artigos 5
+### Artigos 5
 
-Can an Algorithm Hire Better Than a Human?
+**Can an Algorithm Hire Better Than a Human?**
 Claire Cain Miller. The New York Times, 2015.
 https://www.nytimes.com/2015/06/26/upshot/can-an-algorithm-hire-better-than-a-human.html
 
-When Algorithms Discriminate
+**When Algorithms Discriminate**
 Claire Cain Miller. The New York Times, 2015.
 https://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html
 
-Economic Models of (Algorithmic) Discrimination.
+**Economic Models of (Algorithmic) Discrimination.**
 Bryce W. Goodman
 NIPS Symposium on Machine Learning and the Law.
 http://www.mlandthelaw.org/papers/goodman2.pdf
 
-A survey on measuring indirect discrimination in machine learning. https://arxiv.org/pdf/1511.00148.pdf
+**A survey on measuring indirect discrimination in machine learning.** https://arxiv.org/pdf/1511.00148.pdf
 
 #### Artigos 6
 
@@ -327,6 +327,6 @@ http://www.cs.cmu.edu/~wing/publications/Gurevich-Hudis-Wing16.pdf
 ## Cronograma
 
 - 30/10: Artigos 1 a 4 (inclusive)
-- 06/11: Artigos 5 a 8 (inclusive)
+- **06/11: Artigos 5 a 8 (inclusive)**
 - 08/11: Artigos 9 a 12 (inclusive)
 - 13/11: Artigos 13 ao fim
